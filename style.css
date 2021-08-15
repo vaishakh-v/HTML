@@ -1,0 +1,47 @@
+.head1{
+    color: greenyellow;
+    top: 20px;
+    left: 100px;
+    /* hey comment */
+    position: relative;
+}
+.div1{
+    top: 100px;
+    left: 500px;
+    
+    position: relative;
+}
+#head2{
+    color: rgba(255, 103, 179, 0.849);
+}
+.dev2{
+    top: 100px;
+    left: 300px;
+    position: absolute;
+}
+.postion-fixed{
+    top: 100px;
+    left: 500px;
+    color: rgb(190, 36, 36);
+    position:fixed;
+}
+.next-div{
+    background-color: salmon;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: lighter;
+    color:azure;
+    height: 1000px;
+    width: 50%;
+
+}
+.center{
+    background-color: blue;
+    color:fuchsia;
+    position:relative;
+    top: 50%;
+    bottom: 50%;
+    bottom:2em
+
+}
+/* damn */
